@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "757214614937",
+    "project_id": "hrms-production-6b12b",
+    "storage_bucket": "hrms-production-6b12b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757214614937:android:8b52283a019fbdbbee6f08",
+        "android_client_info": {
+          "package_name": "com.awign.saas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757214614937-ealabmb8eqg01urqoa5mmrni256tnb1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awign.saas",
+            "certificate_hash": "bc2b6e26410463c7cb18f31bc13d598cc0e04fcf"
+          }
+        },
+        {
+          "client_id": "757214614937-n4t72kehjdt9nvdal6dkjfb1lf9hqphf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1VOM1Fp6sE-8jNP0KvdPXnAD_DWq3_Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757214614937-n4t72kehjdt9nvdal6dkjfb1lf9hqphf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757214614937-903s3ieksl2au3fhrdpot6k4en68rk64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awign.saas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
